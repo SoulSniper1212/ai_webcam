@@ -30,13 +30,8 @@ This is a Non-GUI AI Assistant that uses Google Gemini 2.0 for image-based conte
    * Create a `.env` file in the root directory:
 
      ```bash
-     touch .env
-     ```
-   * Add your API key to the `.env` file:
-
-     ```env
-     GEMINI_API_KEY=your_api_key_here
-     ```
+     echo "GEMINI_API_KEY=your_api_key_here" > .env
+    ```
 
 ## Usage:
 
