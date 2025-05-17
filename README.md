@@ -31,8 +31,7 @@ This is a Non-GUI AI Assistant that uses Google Gemini 2.0 for image-based conte
 
      ```bash
      echo "GEMINI_API_KEY=your_api_key_here" > .env
-    ```
-
+     ```
 ## Usage:
 
 Run the script using:
