@@ -15,8 +15,8 @@ This is a Non-GUI AI Assistant that uses Google Gemini 2.0 for image-based conte
  ```
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/SoulSniper1212/AI-WEBCAM.git
+   cd AI-WEBCAM
    ```
 
 2. Install the required dependencies:
