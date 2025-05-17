@@ -12,6 +12,7 @@ This is a Non-GUI AI Assistant that uses Google Gemini 2.0 for image-based conte
 ## Installation:
 
 1. Clone the repository:
+ ```
 
    ```bash
    git clone <repository-url>
