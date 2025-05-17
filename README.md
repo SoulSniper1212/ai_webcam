@@ -1,5 +1,3 @@
-Here’s your README content with the **Custom License** section, formatted cleanly for easy copy-paste into your repo's README.md file (I put it all in a markdown “canvas” block for you):
-
 ```markdown
 # Non-GUI AI Assistant CLI
 
@@ -79,7 +77,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Author:
 
-Arush Vora
+Arush Wadhawan
 ```
-
-You can copy and paste this entire block into your `README.md` file. If you want, I can also help you generate a separate `LICENSE` file with the same text!
