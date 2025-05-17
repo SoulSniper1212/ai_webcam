@@ -49,7 +49,6 @@ python3 main.py
 ### Notes:
 
 * Ensure your webcam is connected and functional before running the script.
-* Replace `<repository-url>` and `<repository-name>` with your repository's URL and name.
 * Make sure your `.env` file is in the same directory as `main.py`.
 
 ## Requirements:
